@@ -13,7 +13,7 @@ PyCharm Professional Edition memiliki beberapa opsi lisensi, yang berbeda dalam 
 
 nah sekarang muncul pertanyaan kapan percabangan itu digunakan?, percabangan digunakan saat terdapat suatu keputusan atau dihadapkan pada kondisi tertentu, disini percabangan akan mengevaluasi kondisi yang hasilnya True atau False, yang dimana jika Kondisinya True maka pernyataan(statement) dalam blok tersebut akan di eksekusi dan Jika hasilnya  False maka pernyataan(statement) dalam blok lain akan di eksekusi, dalam python ada 3 jenis pernyataan atau statement yang digunakan, berikut tabelnya.
 
-![iftrue/false](https://github.com//labspy02/blob/master/python%203%20jenis.png)
+![iftrue/false]()
 
 ok sekarang kita mari kita bahas satu-satu
 
@@ -34,7 +34,7 @@ if nilai > 70:
   
   # contoh
   
-  ![Gitconfig](https://github.com/alviandwipramono/labspy02/blob/master/bilangan1.png)
+  ![Gitconfig]()https://github.com/inaanangin/labspy02.1/blob/master/bilangan1.png
 
  # Berikutnya kita juga bisa membuat kondisi if int
   -if int(Bilangan1) and (Bilangan1 > Bilangan3): seperti dibawah ini :
@@ -42,7 +42,7 @@ if nilai > 70:
  
  # contoh
  
- ![iftrue/false](https://github.com/alviandwipramono/labspy02/blob/master/bilangan2.png)
+ ![iftrue/false](https://github.com/inaanangin/labspy02.1/blob/master/bilangan2.png)
  
     Terbesar = Bilangan1
     NomBil = "Bilangan 1"
@@ -52,7 +52,7 @@ if nilai > 70:
    
   # contoh
   
-  ![iftrue/false](https://github.com/alviandwipramono/labspy02/blob/master/bilangan3.png)
+  ![iftrue/false](https://github.com/inaanangin/labspy02.1/blob/master/bilangan3.png)
   
     Terbesar = Bilangan2
     NomBil = "Bilangan 2"
@@ -63,7 +63,7 @@ if nilai > 70:
     NomBil = "Bilangan 3"
     
    # contoh
-   ![iftrue/false](https://github.com/alviandwipramono/labspy02/blob/master/bilangan4.png)
+   ![iftrue/false]https://github.com/inaanangin/labspy02.1/blob/master/bilangan4.png()
     
     
  # Selanjutnya menggunakan bilangan besar adalah
@@ -71,22 +71,22 @@ if nilai > 70:
   
   # contoh
   
-  ![iftrue/false](https://github.com/alviandwipramono/labspy02/blob/master/print%20bilangan%20terbesar.png)
+  ![iftrue/false](https://github.com/inaanangin/labspy02.1/blob/master/elif.png)
  
 # Selanjutnya kita mengetahui setelah RUN yang benar:
-![iftrue/false](https://github.com/alviandwipramono/labspy02/blob/master/Untitled.png)
+![iftrue/false](https://github.com/inaanangin/labspy02.1/blob/master/Untitled.png)
 
 # Selanjutnya kita mengetahui setelah RUN yang salah:
-![iftrue/false](https://github.com/alviandwipramono/labspy02/blob/master/Capture.PNG)
+![iftrue/false](https://github.com/inaanangin/labspy02.1/blob/master/Capture.PNG)
 
     Pada if segment diatas memiliki ketentuan nilai if pertama harus bernilai true barulah nilai if yang berikutnya yang akan di proses atau dieksekusi, namun jika nilai if pertama bernilai false maka nilai if yang berikutnya tidak akan di proses, namun jika nilai if yang pertama bernilai true sedangkan nilai if yang kedua bernilai false maka yang akan di proses hanyalah if yang pertama.
     
    Berikut hasilnya jika if segment yang kita masukan bernilai true:
     
-![iftrue/false](https://github.com/alviandwipramono/labspy02/blob/master/step.png)
+![iftrue/false](https://github.com/inaanangin/labspy02.1/blob/master/step.png)
 
   selanjutnya kita juga bisa menambahkan is dan is not pada if segment seperti dibawah ini :
 
   Pada Bahasa pemrograman python untuk membuat sebuah kondisi sama halnya dengan Bahasa pemgraman yang lain yaitu sama-sama menggunakan if, pada setiap pemrograman if berisi sebuah ekspresi logika menggunakan sebuah data yang telah dibandingkan seperti alur flowchart dibawah ini.
 # Contoh
-![Gitconfig](https://github.com/alviandwipramono/labspy02/blob/master/flowchart2.png)
+![Gitconfig](https://github.com/inaanangin/labspy02.1/blob/master/ine.png)
